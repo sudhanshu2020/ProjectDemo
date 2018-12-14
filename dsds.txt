@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Suresh:
 Pop up for mobile view
 2 hrs for discussion with project timesheet
@@ -23,3 +24,6 @@ Project Timesheet for Travelling project
 
 
 
+=======
+sudhanshu jain weds asha and got one sweet baby girl
+>>>>>>> de4639caea654d50962aa40db6d32021c74b8116
